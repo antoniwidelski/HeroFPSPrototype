@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\nauka\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype\\FPSPrototype.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\nauka\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype\\FPSPrototype.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\nauka\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype\\FPSPrototype.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototypeGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\nauka\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype\\FPSPrototype.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototypeGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UE5\\nauka\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype\\FPSPrototype.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
