@@ -1,4 +1,4 @@
-# FPSPrororype
+# HeroFPSPrototype
 
 This project is Hero FPS,  where player character is inspired by games like Overwatch or Paladins.
 
